@@ -11,3 +11,6 @@ https://fonts.google.com/specimen/Audiowide?categoryFilters=Feeling:%2FExpressiv
 
 Title screen inspiration
 https://gameuidatabase.com/gameData.php?id=1570&autoload=71362 
+
+Boss music
+https://hydrogene.itch.io/high-quality-16-bit-music/download/eyJpZCI6MzU4NTc2NywiZXhwaXJlcyI6MTc4NzEyMDgzNn0%3d%2evOx7tiRNOiQqUxL87AKNxU5dwYE%3d
